@@ -49,6 +49,9 @@ Game enhancers (for lack of a better term), also known as  injected hook.
 
 This list omits Addons that come packaged with Ashita v3. The full list can be found on the offical [Ashita Docs](https://docs.ashitaxi.com/addons/).
 
+- [EquipViewer - Ashita](https://github.com/ffxi-mods/equipviewer-ashita) - Equipment viewer overlay. Repackaged for Ashita.
+	- [EquipViewer](https://github.com/ProjectTako/ffxi-addons/tree/master/equipviewer) - Original EquipViewer repo with instructions for installing to Ashita and Windower.
+
 
 ## Ashita Plugins
 
@@ -58,6 +61,8 @@ This list omits Plugins that come packaged with Ashita v3. The full list can be 
 ## Windower Addons
 
 This list omits Plugins that come packaged with Windower v4. The full list can be found on the offical [Windower Docs](https://docs.windower.net/addons/#).
+
+- [EquipViewer](https://github.com/ProjectTako/ffxi-addons/tree/master/equipviewer) - Original EquipViewer repo with instructions for installing to Ashita and Windower.
 
 
 ## Windower Plugins
