@@ -52,6 +52,7 @@ This list omits Addons that come packaged with Ashita v3. The full list can be f
 - [EquipViewer - Ashita](https://github.com/ffxi-mods/equipviewer-ashita) - Equipment viewer overlay. Repackaged for Ashita.
 	- [EquipViewer](https://github.com/ProjectTako/ffxi-addons/tree/master/equipviewer) - Original EquipViewer repo with instructions for installing to Ashita and Windower.
 
+- [Farmboy0's Ashita Addons ported from Windower](https://gitlab.com/farmboy0/ashita-addons)
 
 ## Ashita Plugins
 
