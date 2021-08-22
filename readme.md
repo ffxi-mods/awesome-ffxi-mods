@@ -78,6 +78,7 @@ This list omits Plugins that come packaged with Windower v4. The full list can b
 
 - [XI View](https://github.com/KenshiDRK/XiView) - HD menu buttons, status icons, pointers and fonts.
 
+- [Make Final Fantasy XI Beautiful - 2021 Edition (YouTube)](https://www.youtube.com/watch?v=ADjRYUdSyXA)
 
 ## Guides
 
